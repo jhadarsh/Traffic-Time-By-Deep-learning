@@ -1,0 +1,48 @@
+{
+    "Connaught Place": {
+        "AIIMS": {
+            "distance": 8.5,
+            "num_signals": 5,
+            "vehicle_count": 200,
+            "red_light_delay": 180,
+            "current_pollution": 170
+        },
+        "Karol Bagh": {
+            "distance": 6.0,
+            "num_signals": 4,
+            "vehicle_count": 180,
+            "red_light_delay": 150,
+            "current_pollution": 160
+        },
+        "Dwarka": {
+            "distance": 20.0,
+            "num_signals": 7,
+            "vehicle_count": 220,
+            "red_light_delay": 200,
+            "current_pollution": 180
+        }
+    },
+    "AIIMS": {
+        "Connaught Place": {
+            "distance": 8.5,
+            "num_signals": 5,
+            "vehicle_count": 210,
+            "red_light_delay": 170,
+            "current_pollution": 165
+        },
+        "Karol Bagh": {
+            "distance": 7.0,
+            "num_signals": 3,
+            "vehicle_count": 190,
+            "red_light_delay": 160,
+            "current_pollution": 155
+        },
+        "Dwarka": {
+            "distance": 18.0,
+            "num_signals": 6,
+            "vehicle_count": 230,
+            "red_light_delay": 210,
+            "current_pollution": 175
+        }
+    }
+}
